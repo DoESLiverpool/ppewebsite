@@ -6974,6 +6974,19 @@ label.panel-block {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
+.branding {
+  padding-top: 1rem;
+  padding-bottom: 2rem; }
+
+.branding__logo {
+  width: 10rem;
+  display: block;
+  margin: auto; }
+
+@media only screen and (min-width: 769px) {
+  .branding__logo {
+    width: 12rem; } }
+
 .navbar {
   margin: 1rem 0; }
 
