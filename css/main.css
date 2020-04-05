@@ -6993,5 +6993,8 @@ label.panel-block {
   height: 100%; }
 
 .card {
-  border-radius: 0.25rem;
+  border-radius: .8rem;
   margin-bottom: 1.5rem; }
+
+.container {
+  max-width: 1000px; }

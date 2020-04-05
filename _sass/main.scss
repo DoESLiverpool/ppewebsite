@@ -57,6 +57,10 @@ $family-sans-serif: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
 }
 
 .card {
-    border-radius: 0.25rem;
+    border-radius: .8rem;
     margin-bottom: $column-gap * 2;
+}
+
+.container {
+    max-width: 1000px;
 }
