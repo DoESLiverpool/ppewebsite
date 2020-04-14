@@ -6956,9 +6956,12 @@ label.panel-block {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
+.section--nav {
+  padding: 1.5rem; }
+
 .logo {
   display: block;
-  max-width: 10rem;
+  max-width: 12rem;
   margin: 0 auto 1rem auto; }
 
 .hero--home {
