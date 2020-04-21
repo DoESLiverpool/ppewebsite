@@ -63,12 +63,13 @@ $family-sans-serif: "Roboto", "Helvetica", "Arial", sans-serif;
     justify-content: center;
     align-items: stretch;
     margin-top: 1rem;
+    margin-bottom: 2rem;
 
     img {
         width: auto;
         height: auto;
-        max-width: 218px;
-        max-height: 100px;
+        max-width: 175px;
+        max-height: 80px;
     }
 
     a {

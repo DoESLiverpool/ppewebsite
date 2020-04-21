@@ -7000,12 +7000,13 @@ label.panel-block {
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
-  margin-top: 1rem; }
+  margin-top: 1rem;
+  margin-bottom: 2rem; }
   .sponsor-logos img {
     width: auto;
     height: auto;
-    max-width: 218px;
-    max-height: 100px; }
+    max-width: 175px;
+    max-height: 80px; }
   .sponsor-logos a {
     display: flex;
     justify-content: center;
